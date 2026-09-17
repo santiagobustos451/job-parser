@@ -1,4 +1,4 @@
-type Profile = {
+type MasterProfile = {
   identity: Identity;
   experience: Experience[];
   education: Education[];
@@ -45,4 +45,4 @@ type Language = {
   level: string;
 };
 
-export default Profile;
+export default MasterProfile;

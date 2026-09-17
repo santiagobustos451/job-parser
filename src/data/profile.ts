@@ -1,6 +1,6 @@
-import type Profile from '../types/profile';
+import type MasterProfile from '../types/master-profile';
 
-const profile: Profile = {
+const profile: MasterProfile = {
   identity: {
     name: 'Elena Vasquez',
     location: 'Austin, TX',

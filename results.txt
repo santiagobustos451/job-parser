@@ -1,0 +1,1928 @@
+
+> job-parser-experiment@1.0.0 dev
+> tsx src/index.ts
+
+{
+  jobs: [
+    {
+      id: 'in-91f149a1552cadcd',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=91f149a1552cadcd',
+      jobUrlDirect: 'https://talent.gensler.com/careersmarketplace/JobDetail/9529',
+      title: 'Design Manager - Higher Education - Senior',
+      company: 'Gensler',
+      location: 'San Jose, CA, US',
+      datePosted: '2026-09-16',
+      jobTypes: [Array],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [Array],
+      description: '## **General Information**\n' +
+        '\n' +
+        'Posting Date\n' +
+        '\n' +
+        '09-16-2026\n' +
+        '\n' +
+        'Time Type\n' +
+        '\n' +
+        'Full-Time\n' +
+        '\n' +
+        'Job ID\n' +
+        '\n' +
+        '9047\n' +
+        '\n' +
+        'Areas of Expertise\n' +
+        '\n' +
+        'Education\n' +
+        '\n' +
+        'Job Category\n' +
+        '\n' +
+        'Design Management\n' +
+        '\n' +
+        '## **Locations**\n' +
+        '\n' +
+        'San Jose, CA, US\n' +
+        '\n' +
+        '## **Description**\n' +
+        '\n' +
+        'At Gensler, we design for people. Leveraging a global platform and local expertise, we create transformative environments that enrich the human experience and drive meaningful impact. Our San Jose office is home to a thriving architecture and interiors practice, partnering with leading higher education institutions to deliver innovative, sustainable, and mission-driven environments. Through our integrated approach to design, we create spaces that strengthen campus communities, support learning and research, and inspire the people who use them every day.  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        "We are seeking an experienced **Design Manager** to join our growing Higher Education practice in San Jose. This leadership role is ideal for a seasoned project management professional with experience across architecture, interiors, master planning, pre-design services, DSA, and SFM projects. Working closely with clients and project teams, you will play a critical role in delivering complex projects while helping expand Gensler's higher education presence across the Bay Area and Northwest Region.  \n" +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '### **Your Role  \n' +
+        '**  \n' +
+        '\n' +
+        'As a Design Manager, you will serve as the primary leader responsible for guiding projects from initial pursuit and planning through construction and occupancy. Acting as the central point of contact for clients, consultants, and project teams, you will oversee project scope, schedule, budget, staffing, risk management, and delivery strategy while ensuring design quality and client satisfaction at every stage.\n' +
+        '\n' +
+        'This is a highly collaborative project management role that combines leadership, business acumen, and design stewardship. You will coordinate multidisciplinary teams, navigate complex stakeholder environments, and drive successful project outcomes while ensuring alignment between client goals, project performance, and design intent.\n' +
+        '\n' +
+        "Successful candidates are proactive leaders who excel at managing complex projects, building trusted client relationships, and fostering high-performing teams. In addition to overseeing project delivery, you will mentor emerging professionals, contribute to studio growth initiatives, and help advance Gensler's culture of innovation, sustainability, and design excellence.  \n" +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**What You Will Do**\n' +
+        '\n' +
+        '*   Act as hands-on design (project) manager for a variety of projects\n' +
+        '*   Engage clients and stakeholders to identify project vision, goals, and objectives\n' +
+        '*   Work collaboratively with others toward design solutions\n' +
+        '*   Promote engagement and collaboration at all levels, including design team, consultants, clients, and contractors\n' +
+        '*   Manage teams from concept design through construction with a deep understanding of zoning, codes, construction standards, and other regulatory requirements\n' +
+        '*   Develop and maintain project schedules, budgets, and work plans\n' +
+        '*   Ensure excellent performance regarding project design quality, schedule, and budget\n' +
+        '*   Prepare and review proposals, contracts, and consultant agreements\n' +
+        '*   Work with accounting team to manage the billing process\n' +
+        '*   Participate in firm marketing, proposal writing, and project interviews\n' +
+        '*   Mentor, coach and manage junior/intermediate staff\n' +
+        '*   Contribute to general office-wide initiatives, external thought leadership, and marketing efforts\n' +
+        '*   Support firmwide sustainability and resilience goals, and drive high performance solutions\n' +
+        '*   Support diversity, equity, and inclusion goals on projects and within the office\n' +
+        '*   Develop and maintain positive client relationships\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**Your Qualifications**\n' +
+        '\n' +
+        '*   10+ Years of Design Management experience in an Architecture firm\n' +
+        '*   Bachelor’s Degree in Architecture required, Master’s Degree preferred\n' +
+        '*   Track-record of success with education, sciences, civic, and other mission-driven institutional projects\n' +
+        '*   Knowledge and experience in all phases of interior design and architectural projects\n' +
+        '*   Strong user engagement, programming, and pre-design planning skills a plus\n' +
+        '*   Ability to provide excellent client service and assure project profitability\n' +
+        '*   **Ability to work in person in the office 4-5 days a week**\n' +
+        '*   Collaborative spirit and desire to mentor junior/intermediate staff\n' +
+        '*   Knowledge of state and local building codes including accessibility\n' +
+        '*   Sustainable design experience, including hands-on experience with LEED, LBC, and other certification systems\n' +
+        '*   Computer skills in Microsoft Office (Word, Excel, Outlook and Project), and AutoCAD required\n' +
+        '*   Revit, SketchUp and Photoshop skills are a plus\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '_\\*\\*The base salary will be estimated between $135K - 165K plus bonuses and benefits and contingent on relevant experience.  \n' +
+        '_\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**For consideration, please submit cover letter, resume and portfolio in PDF format.  \n' +
+        '**\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**Life at Gensler  \n' +
+        '**  \n' +
+        '\n' +
+        'At Gensler, we are as committed to enjoying life as we are to delivering best-in-class design. From curated art exhibits to internal design competitions and hackathons, to “Well-being Week,” our offices reflect our teams’ diverse interests.  \n' +
+        '  \n' +
+        '\n' +
+        'We encourage our employees to lead a healthy and balanced life. Our comprehensive benefits include medical, dental, vision, disability, wellness programs, flex spending, paid holidays and paid time off. We also offer a 401k, profit sharing, employee stock ownership and twice annual bonus opportunities. Our annual base salary range has been established based on local markets.  \n' +
+        '  \n' +
+        '\n' +
+        'As part of the firm’s commitment to licensure and professional development, Gensler offers reimbursement for certain professional licenses and associated renewals and exam fees. In addition, we reimburse tuition for certain eligible programs or classes. We view our professional development programs as strategic investments in our future.  \n' +
+        '\n' +
+        '  \n' +
+        '  \n' +
+        '\n' +
+        '**NOTICE TO APPLICANTS**\n' +
+        '\n' +
+        'We are proud to be an Equal Employment Opportunity and Affirmative Action employer of choice. All aspects of employment decisions will be based on merit, performance, and business needs. We do not discriminate on the basis of any status protected under federal, state and local law.\n' +
+        '\n' +
+        'Individuals with disabilities and protected veterans are encouraged to apply. We also consider qualified applicants with criminal histories consistent with federal, state and local law.\n' +
+        '\n' +
+        'See also **Know your rights: Workplace discrimination is illegal** , **right to work** and **E-verify program** , as required by law.\n' +
+        '\n' +
+        'Gensler endeavors to make gensler.com/careers accessible to all applicants. If you need assistance or an accommodation due to a disability, you may **contact us** .\n' +
+        '\n' +
+        'Regarding Gensler’s approach to recruiting new talent, we will never ask an applicant for sensitive or personal financial information during the recruitment process. We advise all applicants seeking employment with Gensler to review available information on **recruitment fraud** . Anyone who suspects that they have been contacted by someone falsely representing Gensler should email talentacquisition@gensler.com .\n' +
+        '\n' +
+        '#LI-SK1',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/Gensler-2',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/87f77758c851ec6b9ff811c665f43e1f',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.gensler.com',
+      companyAddresses: 'San Francisco, CA',
+      companyNumEmployees: '5,001 to 10,000',
+      companyRevenue: '$1B to $5B (USD)',
+      companyDescription: 'Gensler is a leading architecture design and planning firm, with over 3500 staff in 42 locations around the world.',
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-c886d0458d357a7d',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=c886d0458d357a7d',
+      jobUrlDirect: 'https://talent.gensler.com/careersmarketplace/JobDetail/9528',
+      title: 'Lab Planner - Tech Research & Development',
+      company: 'Gensler',
+      location: 'San Jose, CA, US',
+      datePosted: '2026-09-16',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 110000,
+      maxAmount: 170000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [Array],
+      description: '## **General Information**\n' +
+        '\n' +
+        'Posting Date\n' +
+        '\n' +
+        '09-16-2026\n' +
+        '\n' +
+        'Time Type\n' +
+        '\n' +
+        'Full-Time\n' +
+        '\n' +
+        'Job ID\n' +
+        '\n' +
+        '9046\n' +
+        '\n' +
+        'Areas of Expertise\n' +
+        '\n' +
+        'Technology\n' +
+        '\n' +
+        'Job Category\n' +
+        '\n' +
+        'Architecture\n' +
+        '\n' +
+        'Critical Facilities, Sciences\n' +
+        '\n' +
+        '## **Locations**\n' +
+        '\n' +
+        'San Jose, CA, US\n' +
+        '\n' +
+        'Posting Location: Seattle, WA, US  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '## **Description**\n' +
+        '\n' +
+        '**Your Role**\n' +
+        '\n' +
+        "Located in the heart of Silicon Valley, Gensler's San Jose office partners with the world's leading technology companies to shape the environments driving innovation and the future of artificial intelligence. We are seeking a **Senior Tech R&D Lab Planner** to join our Advanced Technology team, bringing expertise in the planning and design of complex research, development, testing, and technical environments.\n" +
+        '\n' +
+        'This role is ideal for an experienced lab planning professional with 10+ years of experience designing highly specialized facilities. While architectural licensure is preferred, it is not required.\n' +
+        '\n' +
+        'As a key member of our team, you will help create cutting-edge environments that support advanced hardware development, semiconductor research, robotics, artificial intelligence, and next-generation manufacturing. Projects may include dry labs, clean rooms, chamber rooms, data hall labs, SCIFs, semiconductor testing facilities, GPU rack testing environments, and advanced research spaces. While experience across all these facility types is not expected, the ideal candidate brings curiosity, adaptability, and a passion for expanding their expertise within a rapidly evolving sector.\n' +
+        '\n' +
+        'You will leverage strong programming, planning, and stakeholder engagement skills to develop innovative lab solutions that balance technical requirements, operational workflows, user needs, and spatial efficiency. Success in this role requires a deep understanding of how research environments integrate with workplace settings, creating flexible, high-performing spaces that support collaboration, innovation, and growth.\n' +
+        '\n' +
+        "The successful candidate is highly collaborative and thrives in multidisciplinary environments, partnering closely with architects, engineers, consultants, contractors, and clients throughout the project lifecycle. Given the global reach of our Silicon Valley clients, you will also collaborate with colleagues across Gensler's international network, contributing to projects that span regions and disciplines.\n" +
+        '\n' +
+        "In addition to shaping exceptional technical environments, you will play an important leadership role within the studio by mentoring and developing emerging designers, sharing industry knowledge, and advancing Gensler's expertise in R&D and advanced technology environments.  \n" +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**What You Will Do**\n' +
+        '\n' +
+        '*   Work directly with clients, internal teams, researchers and related end-users to develop laboratory planning strategies at all levels of detail including new construction and renovations.\n' +
+        '*   Offer and support creative, sustainability-focused laboratory planning, technical design and detailing decisions that are in line with project goals, yet pushing the envelope beyond traditional approaches to lab design, particularly in private industry\n' +
+        '*   Provide technical lab, documentation oversight and quality control (QC) reviews. Provide or follow verbal and written instructions to revise, develop and produce plans, elevations and details appropriately.\n' +
+        '*   Direct document production in accordance with identified project specific checklists, Gensler standards and QA/QC standard program.\n' +
+        '*   Day-to-day project and client management of laboratory projects from initial planning through construction\n' +
+        '*   Assist in the development of standard materials that describe the portfolio, systems, processes of Gensler’s Advanced Tech and Mission Critical Facilities.\n' +
+        '*   Work closely with office and studio leaders to identify and recruit best-in-class talent.\n' +
+        '*   Lead the relationships with the client, contractor, agencies, as well as engineering and specialty consultants.\n' +
+        '*   Manage mid-size to large project teams, mentor junior staff.\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**Your Qualifications**\n' +
+        '\n' +
+        "*   Bachelor's degree in Architecture from an accredited school with at least 10+ years of architectural or related experience.\n" +
+        '*   Licensure is preferred but not required\\*\\*\n' +
+        '*   Proficiency in Revit is preferred.\n' +
+        '*   Knowledge of laboratory programming delivery and how design impacts those systems –including space, operational, and equipment programming, as well as MEP systems and casework.\n' +
+        '*   Substantial experience working directly senior management representatives, scientists, laboratory managers and technicians, facilities and project managers, and other project stakeholders in determining and documenting programmatic requirements.\n' +
+        '*   LEED accredited preferred. Committed to the principles of sustainable design and resilient communities, able to demonstrate this commitment in a portfolio of work.\n' +
+        '*   Demonstrable working technical knowledge and skill set to guide discussions for laboratory (including vivarium) room/space development in conjunction with equipment and other technical attributes.\n' +
+        '*   Ability to work with end users to develop process flows, planning process and critical adjacencies of research and laboratory rooms for optimum efficiency and flexibility.\n' +
+        '*   Leadership experience, including managing client expectations, multi-disciplinary team, and meeting scope/schedule/budget.\n' +
+        '*   Advanced knowledge of the architectural planning and design process, construction documentation, construction administration and code requirements.\n' +
+        '*   Possess strong presentation skills with the ability to articulate ideas in interviews and other presentations.\n' +
+        '*   Skilled at developing and motivating teams of people both internally and externally, along with a desire to mentor team members.\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**For consideration, please submit your cover letter, resume, and portfolio in PDF format.**\n' +
+        '\n' +
+        '_\\*The base salary will be estimated between $110,000 - $170,000 plus bonuses and benefits and contingent on relevant experience_  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**\\*\\*Notice:** At Gensler an unlicensed Lab Planner will have the job title of Lab Designer and operate in this capacity for alignment with internal programs, doing business with clients and compliance with industry and government regulations. If you have questions regarding this notice, please ask our Talent Acquisition team during the application process.  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**Life at Gensler**\n' +
+        '\n' +
+        'At Gensler, we are as committed to enjoying life as we are to delivering best-in-class design. From curated art exhibits to internal design competitions to “Well-being Week,” our offices reflect our people’s diverse interests.\n' +
+        '\n' +
+        'We encourage every person at Gensler to lead a healthy and balanced life. Our comprehensive benefits include medical, dental, vision, disability, wellness programs, flex spending, paid holidays, and paid time off. We also offer a 401k, profit sharing, employee stock ownership, and twice annual bonus opportunities. Our annual base salary range has been established based on local markets.\n' +
+        '\n' +
+        'As part of the firm’s commitment to licensure and professional development, Gensler offers reimbursement for certain professional licenses and associated renewals and exam fees. In addition, we reimburse tuition for certain eligible programs or classes. We view our professional development programs as strategic investments in our future.  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '**NOTICE TO APPLICANTS**\n' +
+        '\n' +
+        'We are proud to be an Equal Employment Opportunity and Affirmative Action employer of choice. All aspects of employment decisions will be based on merit, performance, and business needs. We do not discriminate on the basis of any status protected under federal, state and local law.\n' +
+        '\n' +
+        'Individuals with disabilities and protected veterans are encouraged to apply. We also consider qualified applicants with criminal histories consistent with federal, state and local law.\n' +
+        '\n' +
+        'See also **Know your rights: Workplace discrimination is illegal** , **right to work** and **E-verify program** , as required by law.\n' +
+        '\n' +
+        'Gensler endeavors to make gensler.com/careers accessible to all applicants. If you need assistance or an accommodation due to a disability, you may **contact us** .\n' +
+        '\n' +
+        'Regarding Gensler’s approach to recruiting new talent, we will never ask an applicant for sensitive or personal financial information during the recruitment process. We advise all applicants seeking employment with Gensler to review available information on **recruitment fraud** . Anyone who suspects that they have been contacted by someone falsely representing Gensler should email talentacquisition@gensler.com .\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '#LI-SK1',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/Gensler-2',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/87f77758c851ec6b9ff811c665f43e1f',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.gensler.com',
+      companyAddresses: 'San Francisco, CA',
+      companyNumEmployees: '5,001 to 10,000',
+      companyRevenue: '$1B to $5B (USD)',
+      companyDescription: 'Gensler is a leading architecture design and planning firm, with over 3500 staff in 42 locations around the world.',
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-10af2b48d86082ca',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=10af2b48d86082ca',
+      jobUrlDirect: 'https://vacancies.fosterandpartners.com/postings/da30f8b1-5014-461c-972d-775a8f9cebb5?utm_medium=job_board&utm_source=indeed',
+      title: 'Architect',
+      company: 'Foster + Partners',
+      location: 'San Francisco, CA, US',
+      datePosted: '2026-09-16',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 110000,
+      maxAmount: 130000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [Array],
+      description: '### **Description**\n' +
+        '\n' +
+        '  \n' +
+        'As an **Architect** at **Foster + Partners**, you will play a leading role in the delivery of world-class architectural projects, guiding multidisciplinary teams from concept through to completion. You will combine design leadership, project management and team development to help create innovative architecture, ensuring projects are delivered to the highest standards, on time and on budget.\n' +
+        '\n' +
+        '### **  \n' +
+        'This role is ideal if you want to:**\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '*   Lead, manage, motivate and coordinate internal project teams on complex and high-profile architectural projects.\n' +
+        '*   Take ownership of the design process, overseeing and coordinating all project activities from concept through to delivery.\n' +
+        '*   Deliver world-class architecture while balancing design excellence, programme requirements and project budgets.\n' +
+        '*   Collaborate with clients, consultants and external project partners to drive successful project outcomes.\n' +
+        '*   Continue developing your professional expertise through ongoing learning, CPD and career development within a world-leading architectural practice.\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '### **What you will bring to the team:**\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '*   Significant professional architectural experience, with a proven track record of leading and delivering complex projects.\n' +
+        '*   The ability to use initiative and sound judgement to respond to the evolving demands of projects.\n' +
+        '*   Excellent negotiation and communication skills, with the ability to engage, influence and build relationships across multidisciplinary teams and stakeholders.\n' +
+        '*   Proven experience coordinating and integrating the work of internal and external design team members to achieve successful project outcomes.\n' +
+        "*   A strong understanding of the architect's role, including current legislation, project coordination and design management principles.\n" +
+        '*   Commercial awareness, with an understanding of delivering projects on time, within budget and in line with client objectives.\n' +
+        '*   The ability to effectively manage large volumes of project information and data, combined with advanced Revit proficiency and confidence working in a BIM-led environment.\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '### **What we offer:**\n' +
+        '\n' +
+        '  \n' +
+        'We offer a benefits package designed to help you thrive professionally and personally. This includes medical and dental insurance, partially funded by the practice, life assurance, retirement planning support and access to employee assistance programmes providing counselling, wellbeing resources and lifestyle support.  \n' +
+        '  \n' +
+        'To support you in building a meaningful career, the practice offers opportunities for development through continuous learning and knowledge sharing and insights from experienced colleagues.  \n' +
+        '  \n' +
+        '**If our designs spark your curiosity and you would like to contribute to solving complex challenges with local and global impact, we invite you to join our team. You’ll be challenged and inspired, collaborating on extraordinary projects in an environment designed to cultivate excellence.**\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '### **About Foster + Partners**\n' +
+        '\n' +
+        'We believe in the power of design to enhance everyday life. Through a culture of purposeful curiosity, our work defines the way tomorrow’s built environments look, feel and function. Founded in 1967 by Norman Foster, what began as a small team is now a global practice with an outstanding design legacy, creating innovative and thoughtful solutions that shape skylines and landscapes around the world.  \n' +
+        '  \n' +
+        'Whether designing an entire city or a bespoke door handle, we approach every project with ambition and dedicated creativity - and we seek exceptional people to enrich our practice. If you enjoy solving complex challenges and creating industry-defining designs and solutions, we invite you to join our team.  \n' +
+        '  \n' +
+        'The practice is committed to supporting diversity and inclusivity and strives to create a working environment that is responsive to different cultures. We value the contributions of our diverse and creative team and are proud to offer equal opportunities for all.  \n' +
+        '  \n' +
+        'If you have any questions about our application process, or need support submitting your application, please contact us at recruit@fosterandpartners.com.\n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        'Details on how we process and retain applicant data are set out in our PreHire Privacy Notice.',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/Foster-+-Partners',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/10519c424de919db44684ee3dd407024',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.fosterandpartners.com',
+      companyAddresses: 'London, UK',
+      companyNumEmployees: '501 to 1,000',
+      companyRevenue: '$100M to $500M (USD)',
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-78bd01fdcafea4f3',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=78bd01fdcafea4f3',
+      jobUrlDirect: 'https://app.eddy.com/careers/gdm-ae/b7d76339-8720-4788-8f4f-14c153880426?source=INDEED',
+      title: 'Medical Equipment Planning Architect',
+      company: null,
+      location: 'Palo Alto, CA, US',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 125000,
+      maxAmount: 140000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '**Position Summary**\n' +
+        '\n' +
+        'GDM-AE, Inc. is staffing for federal healthcare construction and design support work at active healthcare facilities in Palo Alto, CA.\n' +
+        '\n' +
+        'This is a Licensed-Architect-required role and calls for medical equipment planning experience on hospitals, clinics, and other active healthcare facilities. The Medical Equipment Planning Architect must have 5+ years of professional architectural experience with a focus on the design and construction administration of commercial or institutional buildings. This role coordinates procurement, placement, and integration of medical equipment supporting clinical needs and patient care.\n' +
+        '\n' +
+        '**  \n' +
+        'Key Responsibilities**\n' +
+        '\n' +
+        '*   Coordinate procurement, placement, and integration of medical equipment to support clinical needs and enhance patient care.\n' +
+        '*   Plan layout and installation of equipment to optimize workflow and efficiency given spatial constraints and operational needs of clinical departments.\n' +
+        '*   Conduct research and analysis to select equipment that meets quality, budget, and code/regulatory compliance.\n' +
+        '*   Develop, review, and coordinate medical equipment lists, room data sheets, equipment matrices, cut sheets, and planning documentation.\n' +
+        '*   Coordinate with clinical users, facility staff, designers, project managers, contractors, vendors, and procurement stakeholders.\n' +
+        '*   Review drawings, room layouts, utility requirements, and project scopes for equipment coordination issues including space, clearances, mounting, seismic, infection control, and operations.\n' +
+        '*   Manage vendor relationships, oversee installation processes, and provide staff training on equipment use and maintenance.\n' +
+        '\n' +
+        '**  \n' +
+        'Qualifications**\n' +
+        '\n' +
+        "*   Bachelor's or Master's degree in Architecture from a NAAB-accredited program required.\n" +
+        '*   Registered Architect with a current US license required. Proof of licensure required prior to assignment. NCARB certification desirable for reciprocity.\n' +
+        '*   5+ years of Professional Architectural experience required, with focus on design and construction administration of commercial or institutional buildings.\n' +
+        '*   In-depth knowledge of architectural details and medical equipment, including assembly, seismic requirements, infection control standards, and environmental factors.\n' +
+        '*   In-depth knowledge of building codes and standards: IBC, NFPA, and ADA/ABA.\n' +
+        '*   Proficient in reading and interpreting architectural plans, specifications, and terminology.\n' +
+        '*   Healthcare project experience in renovation work within active facilities highly preferred.\n' +
+        '*   Knowledge of federal healthcare design standards (space planning criteria, door hardware schedules, design guidelines) highly preferred.\n' +
+        '*   Federal healthcare project experience preferred.\n' +
+        '*   Revit and AutoCAD proficiency preferred.\n' +
+        '\n' +
+        '**  \n' +
+        'Federal Contract Requirements**\n' +
+        '\n' +
+        '*   Some local travel within the Palo Alto service area is part of normal duties.\n' +
+        '*   Tier 1 Low Risk / Non-Sensitive background investigation (NACI / SF-85) required prior to assignment.\n' +
+        '*   Must abide by all client facility rules, security procedures, and safety regulations.\n' +
+        '*   Employees represent themselves as contracted personnel, not federal employees, and do not perform inherently governmental functions.\n' +
+        '\n' +
+        '**Location**\n' +
+        '\n' +
+        'On-site, Palo Alto, CA.\n' +
+        '\n' +
+        '**  \n' +
+        'Compensation and Benefits**\n' +
+        '\n' +
+        'Salary Range: $125,000-$140,000\n' +
+        '\n' +
+        '*   Monthly certification pay for additional licensing (PMP, LEED AP, BCxA, etc.)\n' +
+        '*   Health, Dental, and Vision insurance\n' +
+        '*   401(k) matching\n' +
+        '*   PTO\n' +
+        '*   Education/Professional Development Paid\n' +
+        '\n' +
+        '**  \n' +
+        'About Us**\n' +
+        '\n' +
+        'GDM-AE, Inc. is a Service-Disabled Veteran-Owned Small Business providing full-service architecture and engineering solutions for federal agencies nationwide. We focus on complex design, renovation, and infrastructure modernization projects, with a strong track record in healthcare systems. Our work strengthens critical facilities and delivers lasting impact for the communities they serve.\n' +
+        '\n' +
+        'E04JI802th6i409d13c',
+      companyIndustry: null,
+      companyUrl: null,
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-bf182e18f6dee16f',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=bf182e18f6dee16f',
+      jobUrlDirect: 'http://www.indeed.com/job/medical-equipment-planning-architect-bf182e18f6dee16f',
+      title: 'Medical Equipment Planning Architect',
+      company: 'GDM A-E, Inc.',
+      location: 'Palo Alto, CA, US',
+      datePosted: '2026-09-16',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 125000,
+      maxAmount: 140000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '**Position Summary**\n' +
+        '\n' +
+        'GDM-AE, Inc. is staffing for federal healthcare construction and design support work at active healthcare facilities in Palo Alto, CA.\n' +
+        '\n' +
+        'This is a Licensed-Architect-required role and calls for medical equipment planning experience on hospitals, clinics, and other active healthcare facilities. The Medical Equipment Planning Architect must have 5+ years of professional architectural experience with a focus on the design and construction administration of commercial or institutional buildings. This role coordinates procurement, placement, and integration of medical equipment supporting clinical needs and patient care.\n' +
+        '\n' +
+        '**Key Responsibilities**\n' +
+        '\n' +
+        '*   Coordinate procurement, placement, and integration of medical equipment to support clinical needs and enhance patient care.\n' +
+        '*   Plan layout and installation of equipment to optimize workflow and efficiency given spatial constraints and operational needs of clinical departments.\n' +
+        '*   Conduct research and analysis to select equipment that meets quality, budget, and code/regulatory compliance.\n' +
+        '*   Develop, review, and coordinate medical equipment lists, room data sheets, equipment matrices, cut sheets, and planning documentation.\n' +
+        '*   Coordinate with clinical users, facility staff, designers, project managers, contractors, vendors, and procurement stakeholders.\n' +
+        '*   Review drawings, room layouts, utility requirements, and project scopes for equipment coordination issues including space, clearances, mounting, seismic, infection control, and operations.\n' +
+        '*   Manage vendor relationships, oversee installation processes, and provide staff training on equipment use and maintenance.\n' +
+        '\n' +
+        '**Qualifications**\n' +
+        '\n' +
+        "*   Bachelor's or Master's degree in Architecture from a NAAB-accredited program required.\n" +
+        '*   Registered Architect with a current US license required. Proof of licensure required prior to assignment. NCARB certification desirable for reciprocity.\n' +
+        '*   5+ years of Professional Architectural experience required, with focus on design and construction administration of commercial or institutional buildings.\n' +
+        '*   In-depth knowledge of architectural details and medical equipment, including assembly, seismic requirements, infection control standards, and environmental factors.\n' +
+        '*   In-depth knowledge of building codes and standards: IBC, NFPA, and ADA/ABA.\n' +
+        '*   Proficient in reading and interpreting architectural plans, specifications, and terminology.\n' +
+        '*   Healthcare project experience in renovation work within active facilities highly preferred.\n' +
+        '*   Knowledge of federal healthcare design standards (space planning criteria, door hardware schedules, design guidelines) highly preferred.\n' +
+        '*   Federal healthcare project experience preferred.\n' +
+        '*   Revit and AutoCAD proficiency preferred.\n' +
+        '\n' +
+        '**Federal Contract Requirements**\n' +
+        '\n' +
+        '*   Some local travel within the Palo Alto service area is part of normal duties.\n' +
+        '*   Tier 1 Low Risk / Non-Sensitive background investigation (NACI / SF-85) required prior to assignment.\n' +
+        '*   Must abide by all client facility rules, security procedures, and safety regulations.\n' +
+        '*   Employees represent themselves as contracted personnel, not federal employees, and do not perform inherently governmental functions.\n' +
+        '\n' +
+        '**Location**\n' +
+        '\n' +
+        'On-site, Palo Alto, CA.\n' +
+        '\n' +
+        '**Compensation and Benefits**\n' +
+        '\n' +
+        'Salary Range: $125,000-$140,000\n' +
+        '\n' +
+        '*   Monthly certification pay for additional licensing (PMP, LEED AP, BCxA, etc.)\n' +
+        '*   Health, Dental, and Vision insurance\n' +
+        '*   401(k) matching\n' +
+        '*   PTO\n' +
+        '*   Education/Professional Development Paid\n' +
+        '\n' +
+        '**About Us**\n' +
+        '\n' +
+        'GDM-AE, Inc. is a Service-Disabled Veteran-Owned Small Business providing full-service architecture and engineering solutions for federal agencies nationwide. We focus on complex design, renovation, and infrastructure modernization projects, with a strong track record in healthcare systems. Our work strengthens critical facilities and delivers lasting impact for the communities they serve.\n' +
+        '\n' +
+        'Job Type: Full-time\n' +
+        '\n' +
+        'Pay: $125,000.00 - $140,000.00 per year\n' +
+        '\n' +
+        'Benefits:\n' +
+        '\n' +
+        '*   401(k)\n' +
+        '*   401(k) matching\n' +
+        '*   Dental insurance\n' +
+        '*   Health insurance\n' +
+        '*   Life insurance\n' +
+        '*   Paid time off\n' +
+        '*   Professional development assistance\n' +
+        '*   Vision insurance\n' +
+        '\n' +
+        'Education:\n' +
+        '\n' +
+        "*   Bachelor's (Required)\n" +
+        '\n' +
+        'Experience:\n' +
+        '\n' +
+        '*   Professional Architecture: 5 years (Required)\n' +
+        '\n' +
+        'License/Certification:\n' +
+        '\n' +
+        '*   Registered Architect (Required)\n' +
+        '\n' +
+        'Work Location: In person',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/Gdm-A--e,-Inc.',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-c679f1cd77a861ff',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=c679f1cd77a861ff',
+      jobUrlDirect: 'https://www.tesla.com/careers/search/job/283460?source=Indeed',
+      title: 'Architectural Lead, Workplace Interiors',
+      company: 'Tesla',
+      location: 'Palo Alto, CA, US',
+      datePosted: '2026-09-15',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 140000,
+      maxAmount: 270000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '**What to Expect**\n' +
+        '\n' +
+        'Tesla is seeking a seasoned Interior Architectural Lead to own the design and delivery of corporate workplace interiors at Tesla. This role is a player-coach role: you will personally design and lead workplace interiors and FF&E, run projects through every phase of delivery, and oversee a team that produces designs for corporate offices.\n' +
+        '\n' +
+        'You will lead and design direct the work during all phases of design and development, then lead documentation, FF&E, and partner with Tesla’s internal construction team for the construction administration phase through close-out. Prospective candidates should have extensive experience designing, leading, and delivering high-performing workplace interiors for industry-leading organizations, and the operating management discipline to allocate team capacity, prioritize competing demands, and stay flexible as business needs change.\n' +
+        '\n' +
+        '**  \n' +
+        "What You'll Do**\n" +
+        '\n' +
+        '*   Personally design direct, lead, and deliver corporate workplace interiors from concept through close-out, acting as Interior Design Architect depending on scope. Own all phases of delivery, programming, schematic design, design development, construction documents, bidding/procurement, construction administration, and close-out, including RFIs, submittals, and field decisions\n' +
+        '*   Own FF&E strategy and execution for workplace projects, including programming, FF&E guidelines and standards, specifications, budgets, dealer/vendor coordination, procurement support, installation, and punch\n' +
+        '*   Directly lead, mentor, and oversee a team of architects and designers producing workplace interiors for corporate offices. Set design quality, detailing, and documentation standards, and develop the team’s craft\n' +
+        '*   Manage workload capacity, resource allocation, and a competing project portfolio. Sequence work, make clear tradeoffs against occupancy, budget, and schedule, and reset priorities as business needs change, including restacks, program changes, and accelerated timelines, without losing design intent or quality\n' +
+        '*   Manage multiple stakeholders, executive sponsors, end users, Workplace, Facilities, Engineering, Construction Project Management, General Contractors, and FF&E dealers, keeping decisions, scope, and expectations aligned. Present status updates, progress reports, and design presentations to executive stakeholders and end customers\n' +
+        '*   Create comprehensive design intent packages that a contractor can build and an installer can furnish, with detailing that holds up in the field\n' +
+        '*   Develop creative solutions that protect design quality while saving cost and reducing schedule\n' +
+        '\n' +
+        '  \n' +
+        "**What You'll Bring**\n" +
+        '\n' +
+        '*   Bachelor’s Degree in Architecture with US Architecture licensure (NCIDQ or equivalent interior-design credential a plus), or equivalent experience\n' +
+        '*   15+ years of professional experience designing, leading, and delivering corporate workplace interiors for industry-leading organizations, not only managing the work, but producing it. Workplace interiors in corporate office environments required; industrial, manufacturing, or campus amenity experience is a plus\n' +
+        '*   Demonstrated FF&E experience: furniture programs, finish and material palettes, specifications, budgets, and installation coordination\n' +
+        '*   10+ years leading a team of architects and/or interior designers who produce workplace / corporate office interiors\n' +
+        '*   Proven ownership of all project phases, including schematic design, design development, construction documents, and construction administration, plus experience with project cost estimating and schedule review\n' +
+        '*   Experience managing workload capacity, resource allocation, and prioritization across a multi-project interiors portfolio, with the ability to operate in a fast-changing environment and keep a team productive when business needs shift\n' +
+        '*   Strong stakeholder management across executives, end users, and cross-functional delivery partners, and expert proficiency in Revit and relevant 2D/3D modeling and visualization tools\n' +
+        '\n' +
+        '#### **  \n' +
+        'Benefits**\n' +
+        '\n' +
+        '  \n' +
+        'Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:\n' +
+        '\n' +
+        '*   Medical plans > plan options with $0 payroll deduction\n' +
+        '*   Family-building, fertility, adoption and surrogacy benefits\n' +
+        '*   Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution\n' +
+        '*   Company Paid (Health Savings Accounts) HSA Contribution when enrolled in the High-Deductible medical plan with HSA\n' +
+        '*   Healthcare and Dependent Care Flexible Spending Accounts (FSA)\n' +
+        '*   401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits\n' +
+        '*   Company paid Basic Life, AD&D\n' +
+        '*   Short-term and long-term disability insurance (90 day waiting period)\n' +
+        '*   Employee Assistance Program\n' +
+        '*   Sick and Vacation time (Flex time for salary positions, Accrued hours for Hourly positions), and Paid Holidays\n' +
+        '*   Back-up childcare and parenting support resources\n' +
+        '*   Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance\n' +
+        '*   Weight Loss and Tobacco Cessation Programs\n' +
+        '*   Tesla Babies program\n' +
+        '*   Commuter benefits\n' +
+        '*   Employee discounts and perks program\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '#### **Expected Compensation**\n' +
+        '\n' +
+        '$140,000 - $270,000/annual salary + cash and stock awards + benefits\n' +
+        '\n' +
+        'Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.\n' +
+        '\n' +
+        '  \n' +
+        'Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  \n' +
+        '  \n' +
+        'Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.',
+      companyIndustry: 'INDUSTRIAL MANUFACTURING',
+      companyUrl: 'https://www.indeed.com/cmp/Tesla',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.tesla.com',
+      companyAddresses: '1 Tesla Road Austin, TX 78725',
+      companyNumEmployees: '10,000+',
+      companyRevenue: '$5B to $10B (USD)',
+      companyDescription: 'Tesla is accelerating the world’s transition to sustainable energy.',
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-47828bbccc170e0d',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=47828bbccc170e0d',
+      jobUrlDirect: 'https://www.tesla.com/careers/search/job/283464?source=Indeed',
+      title: 'Architectural Project Manager, Lab Design & Planning',
+      company: 'Tesla',
+      location: 'Palo Alto, CA, US',
+      datePosted: '2026-09-15',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 96000,
+      maxAmount: 210000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '**What to Expect**\n' +
+        '\n' +
+        "We are seeking a skilled space planning professional with strong project management and technical planning skills to support the Space Planning team in delivering front-end lab and workplace environments. This role focuses on leading feasibility studies, developing test fits, and managing lab and workplace planning projects—from concept through to detailed planning and handoff for implementation. You will serve as a key program manager ensuring projects align with Tesla's aggressive timelines, standards, and cross-functional needs.\n" +
+        '\n' +
+        'The ideal candidate is a multidisciplinary planner with 5–7 years of practical experience in lab/workplace space planning, Revit modeling, feasibility analysis, and delivering high-quality planning packages in a dynamic, high-velocity environment.\n' +
+        '\n' +
+        '**  \n' +
+        "What You'll Do**\n" +
+        '\n' +
+        '*   Lead and maintain the front-end space planning workflow and program processes for lab and workplace development projects\n' +
+        '*   Manage multiple concurrent planning efforts for infrastructure, labs, and workplace spaces from initial concept through detailed test fits and planning package delivery\n' +
+        '*   Thrive in a fast-paced environment while prioritizing and executing many projects and tasks in parallel\n' +
+        '*   Collaborate on feasibility studies and develop optimized test fits that meet operational, code, and design requirements\n' +
+        '*   Translate design briefs, stakeholder requirements, and architectural constraints into detailed Revit models, space plans, and clear presentation materials\n' +
+        '*   Coordinate post-planning refinements, including basic model adjustments and package documentation to support downstream design and construction teams\n' +
+        '*   Build and maintain strong relationships with cross-functional teams (e.g., engineering, facilities, operations, lab users) to ensure program alignment, resolve conflicts, and drive timely decisions\n' +
+        '\n' +
+        '  \n' +
+        "**What You'll Bring**\n" +
+        '\n' +
+        "*   Bachelor's Degree in Architecture, or equivalent experience\n" +
+        '*   5–7 years of professional experience in space planning, lab planning, workplace design, or related fields\n' +
+        '*   Strong technical proficiency in Revit (required for modeling, space planning, and documentation); proficiency in AutoCAD, Bluebeam, Adobe Creative Suite (for diagrams/presentations), and PowerPoint\n' +
+        '*   Proven experience leading front-end lab planning, workplace space planning, or similar environments\n' +
+        '*   Demonstrated ability to produce detailed 3D models, test fits, and planning deliverables in Revit\n' +
+        '*   Solid understanding of engineering disciplines, building codes, lab safety/operational standards, and workplace ergonomics\n' +
+        '*   Track record of delivering integrated planning packages (e.g., test fits, space utilization reports, IFC/IFP-level documentation)\n' +
+        '*   Exceptional program management skills: ability to manage multiple high-priority projects simultaneously in a fast-paced setting\n' +
+        '*   Strong communication and stakeholder management skills to align diverse teams and drive consensus\n' +
+        '\n' +
+        '#### **  \n' +
+        'Benefits**\n' +
+        '\n' +
+        '  \n' +
+        'Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:\n' +
+        '\n' +
+        '*   Medical plans > plan options with $0 payroll deduction\n' +
+        '*   Family-building, fertility, adoption and surrogacy benefits\n' +
+        '*   Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution\n' +
+        '*   Company Paid (Health Savings Accounts) HSA Contribution when enrolled in the High-Deductible medical plan with HSA\n' +
+        '*   Healthcare and Dependent Care Flexible Spending Accounts (FSA)\n' +
+        '*   401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits\n' +
+        '*   Company paid Basic Life, AD&D\n' +
+        '*   Short-term and long-term disability insurance (90 day waiting period)\n' +
+        '*   Employee Assistance Program\n' +
+        '*   Sick and Vacation time (Flex time for salary positions, Accrued hours for Hourly positions), and Paid Holidays\n' +
+        '*   Back-up childcare and parenting support resources\n' +
+        '*   Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance\n' +
+        '*   Weight Loss and Tobacco Cessation Programs\n' +
+        '*   Tesla Babies program\n' +
+        '*   Commuter benefits\n' +
+        '*   Employee discounts and perks program\n' +
+        '  \n' +
+        '\n' +
+        '  \n' +
+        '\n' +
+        '#### **Expected Compensation**\n' +
+        '\n' +
+        '$96,000 - $210,000/annual salary + cash and stock awards + benefits\n' +
+        '\n' +
+        'Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.\n' +
+        '\n' +
+        '  \n' +
+        'Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  \n' +
+        '  \n' +
+        'Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.',
+      companyIndustry: 'INDUSTRIAL MANUFACTURING',
+      companyUrl: 'https://www.indeed.com/cmp/Tesla',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.tesla.com',
+      companyAddresses: '1 Tesla Road Austin, TX 78725',
+      companyNumEmployees: '10,000+',
+      companyRevenue: '$5B to $10B (USD)',
+      companyDescription: 'Tesla is accelerating the world’s transition to sustainable energy.',
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-44427d9ed6cfe135',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=44427d9ed6cfe135',
+      jobUrlDirect: 'https://i8is.zohorecruit.ca/jobs/Careers/5829000005017136/Architecture-Intermediate-Designer?source=Indeed',
+      title: 'Architecture Intermediate Designer',
+      company: 'I8IS INC.',
+      location: 'Oakland, CA, US',
+      datePosted: '2026-09-14',
+      jobTypes: [],
+      salarySource: null,
+      interval: 'yearly',
+      minAmount: null,
+      maxAmount: null,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '## **Position:**\n' +
+        '\n' +
+        'Architecture Intermediate Designer – Oakland, CA\n' +
+        '\n' +
+        '**Location:**\n' +
+        '\n' +
+        'Oakland, CA Salary Range:\n' +
+        '\n' +
+        '$85K\n' +
+        '\n' +
+        '### **About the Organization**\n' +
+        '\n' +
+        'A leading multidisciplinary architecture and design firm specializing in architecture, interior design, master planning, and innovative building solutions. The organization works across multifamily housing, commercial, hospitality, industrial, and mixed-use projects, with a strong focus on sustainable, community-oriented design and modern construction methods.\n' +
+        '\n' +
+        'Key Requirements:\n' +
+        '\n' +
+        '10+ years of professional architectural design experience.\n' +
+        '\n' +
+        'Strong conceptual and schematic design portfolio.\n' +
+        '\n' +
+        'Experience with zoning, planning, and entitlement processes, preferably in urban/mixed-use projects.\n' +
+        '\n' +
+        'B.Arch or M.Arch from an accredited architecture program.\n' +
+        '\n' +
+        'Strong proficiency in Revit, Rhino, SketchUp, Adobe Creative Suite, and rendering tools such as Enscape .\n' +
+        '\n' +
+        'Strong graphic presentation, communication, and design skills.\n' +
+        '\n' +
+        'Experience across capacity studies, concept design, schematic design, entitlements, DD, CDs, and CA.\n' +
+        '\n' +
+        'Ability to work independently and mentor junior designers.\n' +
+        '\n' +
+        'Familiarity with zoning, accessibility, building codes, and construction methods.\n' +
+        '\n' +
+        'Architectural license is preferred but not required .\n' +
+        '\n' +
+        'Client Priority:\n' +
+        '\n' +
+        'Looking for a candidate with 10+ years of experience who is focused exclusively on design and has a very strong portfolio.',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/I8is-Inc.',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-cadcb5ad3d8fd7ca',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=cadcb5ad3d8fd7ca',
+      jobUrlDirect: 'https://rr.jobsyn.org/38AC1D17133A43D89D3A53C1F37821A71554',
+      title: 'Project Architect - Healthcare',
+      company: 'Stantec',
+      location: 'San Francisco, CA, US',
+      datePosted: '2026-09-14',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 110100,
+      maxAmount: 159600,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: 'Stantec’s Buildings team is on a mission to become the world’s leading integrated design practice. Our architects, engineers, interior designers, consultants, sustainability specialists, and technologists are passionate about the power of design. Our collaborative culture and our innovative, sustainable approach to projects help us create buildings that matter to our world.\n' +
+        '\n' +
+        'Together, we are enhancing the quality of life globally through design.\n' +
+        '\n' +
+        'Join us and design your place with Stantec.\n' +
+        '\n' +
+        'Your Opportunity\n' +
+        '\n' +
+        "Stantec's thriving Healthcare practice is adding an Architect to their San Francisco, CA team. Your role will be to collaborate with the Project Manager and any Design Leader to guide a team of design coordinators through all phases of Design and Construction. You will support all aspects of the project process from validation/pre-design through construction administration and close-out within but not limited to Acute and Sub Acute Healthcare projects. Coordination with consultants, contractors, and Owners will be a part of your weekly activities to manage projects. Along with your Project Manager, you will support multiple projects at any time, within various phases of design and construction.\n" +
+        '\n' +
+        'Your Key Responsibilities\n' +
+        '\n' +
+        '*   Responsible for projects of large and medium complexity/size.\n' +
+        '*   Inspire creativity, critical thought and design excellence both internally and externally.\n' +
+        '*   Conceptualizes a building design from both a functional and aesthetic perspective in concert with a client’s requirements, budget and program.\n' +
+        '*   Develop a design through sketches, physical models, electronic models, diagrams, massing studies, and other visual formats to express the design intent and communicate to project team, client, and building user groups.\n' +
+        '*   Utilizes BIM technologies in development of three-dimensional models of buildings and their components.\n' +
+        '*   Participate in design critiques and constructability reviews.\n' +
+        '*   Present the design with the Project Manager and collaborating Design Architect to stakeholders during early project phases. Develops building design in accordance with cost parameters.\n' +
+        '*   Develop space planning, block planning, and adjacency diagrams in coordination with building program.\n' +
+        '*   Evaluate and select building systems and materials.\n' +
+        '*   Coordinate building systems to ensure compatibility with the design intent.\n' +
+        '*   Implement sustainable design principles into the design and environment.\n' +
+        '*   Analyze site incorporating geotechnical, hydrological, environmental, social, economic and contextual conditions.\n' +
+        '*   Participate in development of the program and other pre-design efforts.\n' +
+        '*   Ensure that design intent is maintained through documentation and construction.\n' +
+        '*   Responsible for leading others in project team setting and design critiques and pin-ups.\n' +
+        '\n' +
+        'Your Capabilities and Credentials\n' +
+        '\n' +
+        '*   Engage in creative and critical thought.\n' +
+        '*   Produce design at a level that would be perceived externally as excellent.\n' +
+        '*   Hand sketch and communicate concepts and ideas to others effectively.\n' +
+        '*   Participate in project team setting.\n' +
+        '*   Effectively communicate and collaborate with multiple stakeholders.\n' +
+        '*   Lead one or more teams on medium size projects through the development of design concept.\n' +
+        '*   Check work of others for accuracy and completeness and manage team to meet project budget and schedule.\n' +
+        '*   Interpret sketches, drawings, codes, building program and other similar material.\n' +
+        '*   Apply accessibility codes, applicable building codes, and life-safety codes to a wide variety of project scopes and complexity.\n' +
+        '*   Produce and deliver design and documentation in highly collaborative BIM strategy.\n' +
+        '*   Strong knowledge of building construction systems, constructability, materials, and industry associated standards.\n' +
+        '*   Strong understanding of the relationship between drawings and specifications.\n' +
+        '*   Understanding of Microsoft Office Suite, Revit, Adobe Creative Suite, SketchUp, Newforma, Bluebeam, Recent modeling software; Prefer experience with 3D Printer, Laser cutter.\n' +
+        "*   Possess a valid driver's license with a good driving record.\n" +
+        '\n' +
+        'Education and Experience\n' +
+        '\n' +
+        '*   Bachelor’s degree in Architecture or related field\n' +
+        '*   Licensed Architect in California required\n' +
+        '*   Minimum 7 years of experience, preferably on large teams with healthcare or institutional clients.\n' +
+        '*   LEED Green Associate or LEED AP preferred.\n' +
+        '*   Healthcare (OSHPD/HCAI) experience is desired.\n' +
+        '\n' +
+        'Typical office environment working with computers and remaining sedentary for long periods of time. Field work may include exposure to the elements including inclement weather.\n' +
+        '\n' +
+        'Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n' +
+        '\n' +
+        'This description is not a comprehensive listing of activities, duties or responsibilities that may be required of the employee and other duties, responsibilities and activities may be assigned or may be changed at any time with or without notice.\n' +
+        '\n' +
+        "Stantec is a place where the best and brightest come to build on each other's talents, do exciting work, and make an impact on the world around us. Join us and redefine your personal best.\n" +
+        '\n' +
+        'About Stantec\n' +
+        '\n' +
+        'Stantec is a global leader in sustainable engineering, architecture, and environmental consulting. The diverse perspectives of our partners and interested parties drive us to think beyond what’s previously been done on critical issues like climate change, digital transformation, and future-proofing our cities and infrastructure. We innovate at the intersection of community, creativity, and client relationships to advance communities everywhere, so that together we can redefine what’s possible.\n' +
+        '\n' +
+        '**Pay Range:**\n' +
+        '\n' +
+        '*   Locations in NYC & CA (Bay Area) & NJ (RP)-$110,100.00 - $159,600.00 Annually\n' +
+        '\n' +
+        '**Pay Transparency:** In compliance with pay transparency laws, pay ranges are provided for positions in locations where required. Please note, the final agreed upon compensation is based on individual education, qualifications, experience, and work location. At Stantec certain roles are bonus eligible. Actual compensation for part-time roles will be pro-rated based on the agreed number of working hours per week.\n' +
+        '\n' +
+        '**Benefits Summary:** Regular full-time and part-time employees (working at least 20 hours per week) have access to medical, dental, and vision plans, a wellness program, health saving accounts, flexible spending accounts, 401(k) plan, employee stock purchase program, life and accidental death & dismemberment (AD&D) insurance, short-term/long-term disability plans, emergency travel benefits, tuition reimbursement, professional membership fee coverage and paid family leave. Regular full-time and part-time employees will receive ten paid holidays in each calendar year. In addition, employees will be eligible to accrue vacation between 10 and 20 days per year and eligible for paid sick leave (and if more generous, in accordance with state and local law).\n' +
+        '\n' +
+        'Temporary/casual employees have access to 401(k) plans, employee stock purchase program, and paid leave, in accordance with state and local law.\n' +
+        '\n' +
+        'The benefits information listed above may not apply to union positions because benefits for such positions are governed by applicable collective bargaining agreements\n' +
+        '\n' +
+        '**Primary Location:** United States | CA | San Francisco\n' +
+        '\n' +
+        '**Organization:** BC-2014 Buildings-US California AID\n' +
+        '\n' +
+        '**Employee Status:** Regular\n' +
+        '\n' +
+        '**Business Justification:** New Position\n' +
+        '\n' +
+        '**Travel:** Yes\n' +
+        '\n' +
+        '**Schedule:** Full time\n' +
+        '\n' +
+        '**Job Posting:** 14/09/2026 02:09:17\n' +
+        '\n' +
+        '**Req ID:** 1007715\n' +
+        '\n' +
+        'Stantec provides equal employment opportunities to all qualified employees and applicants for future and current employment and prohibit discrimination on the grounds of race, colour, religion, sex, national origin, age, marital status, genetic information, disability, sexual orientation, gender identity or gender expression. We prohibit discrimination in decisions concerning recruitment, hiring, referral, promotion, compensation, fringe benefits, job training, terminations or any other condition of employment. Stantec is in compliance with laws and regulations and ensures equitable opportunities in all aspects of employment. At Stantec we are committed to ensuring our recruitment process is accessible to all. If you require reasonable adjustments to be made during the recruitment process then please inform a member of our Talent Acquisition team.',
+      companyIndustry: 'CONSULTING AND BUSINESS SERVICES',
+      companyUrl: 'https://www.indeed.com/cmp/Stantec',
+      companyLogo: 'https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/66983dabbf6c5f96fe54bda86cba8c99',
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'https://www.stantec.com',
+      companyAddresses: '400-10220-103 Street\r\nEdmonton AB T5J 0K4\r\nCanada',
+      companyNumEmployees: '10,000+',
+      companyRevenue: '$1B to $5B (USD)',
+      companyDescription: 'Stantec is a global leader in sustainable engineering, architecture, and environmental consulting. We are a community of more than 31,000 employees working in over 450 locations across 6 continents.',
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'in-324e1731dc0a2a30',
+      site: 'indeed',
+      jobUrl: 'https://www.indeed.com/viewjob?jk=324e1731dc0a2a30',
+      jobUrlDirect: 'https://mk-think.breezy.hr/p/b34397f1a8dc-project-architect?source=indeed',
+      title: 'Project Architect',
+      company: 'MKThink',
+      location: 'San Francisco, CA, US',
+      datePosted: '2026-09-01',
+      jobTypes: [Array],
+      salarySource: 'direct_data',
+      interval: 'yearly',
+      minAmount: 100000,
+      maxAmount: 130000,
+      currency: 'USD',
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: '**ABOUT MKTHINK**\n' +
+        '\n' +
+        "MKThink is a future-forward design firm grounded in spatial intelligence and dedicated to “build less, solve more.” Our data-informed solutions improve human performance at less operational, environmental, and capital costs than conventional approaches. Founded in 2000, MKThink practices from the Pacific Edge of San Francisco to the Oceanic Edge of O'ahu. At MKThink, we believe that we can play a role in helping create a better and more sustainable future by creating intelligent spaces that improve the quality of life. Our greatest resource is our staff and their ability to contribute fully as teammates and individuals. We bring together thinkers from various disciplines to solve problems at the nexus of architecture, culture, and the environment. Our people have the interdisciplinary skills to contribute to this mission within and across the domains of architecture, strategies, and innovation.\n" +
+        '\n' +
+        '**THE ROLE**\n' +
+        '\n' +
+        'MKThink is seeking a highly motivated and technically skilled Project Architect to support the development and delivery of architectural projects across a diverse range of sectors, including commercial, civic, education, healthcare, multi-family residential, and mixed-use developments. This role is ideal for an architect who thrives in a collaborative, interdisciplinary environment and is passionate about delivering thoughtful, high-quality technical documentation and project coordination from concept through construction. We are seeking a candidate with 7-10 years of architectural experience.\n' +
+        '\n' +
+        "The Project Architect will serve as a key technical team member, collaborating closely with team members, consultants, and clients to support successful project execution in alignment with MKThink's design standards, client expectations, schedules, and budget goals. This position requires strong technical proficiency in construction documentation, consultant coordination, BIM/Revit workflows, and construction administration support, as well as the ability to mentor and guide junior staff.\n" +
+        '\n' +
+        'The ideal candidate is proactive, detail-oriented, organized, and comfortable managing multiple responsibilities in a fast-paced environment. Experience working with California, Hawaii, and Pacific Island jurisdictions, public agencies, DSA and/or HCAI processes, and multidisciplinary consultant teams is highly valued.\n' +
+        '\n' +
+        'WHO THIS ROLE IS FOR\n' +
+        '\n' +
+        'This role is for candidates who:\n' +
+        '\n' +
+        '*   Are seeking to move beyond traditional design delivery and into a practice that excels in strategy and advisory work\n' +
+        '*   Are curious about how space influences performance, behavior, and outcomes\n' +
+        '*   Want to work across disciplines—integrating design, data, and systems thinking\n' +
+        '*   Are motivated to have broader impact at organizational or societal scales\n' +
+        '*   Have strong technical problem-solving abilities\n' +
+        '*   Are self-motivated and adaptable in a dynamic project environment\n' +
+        '*   Show commitment to design excellence, innovation, and continuous learning\n' +
+        '*   Ability to work independently, prioritize effectively, and seek support when needed\n' +
+        '\n' +
+        '**PRIMARY RESPONSIBILITIES**\n' +
+        '\n' +
+        'Project Coordination & Technical Delivery\n' +
+        '\n' +
+        '*   Lead the production of comprehensive architectural construction documents across all project phases.\n' +
+        '*   Collaborate closely with other team members to support project planning, technical execution, scheduling, and delivery strategies.\n' +
+        '*   Coordinate work produced by internal design teams, engineering consultants, specialty consultants, and contractors.\n' +
+        '*   Assist with drawing organization, technical detailing, constructability coordination, and document consistency.\n' +
+        '*   Participate in project meetings with clients, consultants, contractors, and agency representatives.\n' +
+        '*   Help maintain project schedules and deliverables to support successful project execution.\n' +
+        '\n' +
+        'Construction Administration Support\n' +
+        '\n' +
+        '*   Support construction administration activities, including:\n' +
+        '*   *   Shop drawing review\n' +
+        '    *   Submittal review\n' +
+        '    *   RFI review and response\n' +
+        '    *   Field observations and site visits\n' +
+        '    *   Coordination with contractors and consultants\n' +
+        '    *   Punch list development and closeout support\n' +
+        '*   Assist in resolving technical and construction-related issues during the construction phase.\n' +
+        '*   Help ensure project documentation accurately reflects field conditions, revisions, and approved changes.\n' +
+        '\n' +
+        'Code Compliance & Technical Coordination\n' +
+        '\n' +
+        '*   Assist with building code analysis and compliance reviews, including accessibility, life safety, and jurisdictional requirements.\n' +
+        '*   Maintain working knowledge of applicable California and/or Hawaii building codes, ADA requirements, accessibility standards, and local agency review processes.\n' +
+        '*   Apply knowledge of building systems, construction methods, materials, detailing, and industry standards.\n' +
+        '*   Support permitting and agency coordination efforts, including DSA and/or HCAI review processes where applicable.\n' +
+        '\n' +
+        'BIM / Revit Coordination\n' +
+        '\n' +
+        '*   Utilize Revit with a high level of technical proficiency for documentation, coordination, and model development.\n' +
+        '*   Support implementation and adherence to office BIM standards and workflows.\n' +
+        '*   Coordinate BIM deliverables with internal teams and external consultants.\n' +
+        '*   Assist in troubleshooting technical modeling and documentation issues.\n' +
+        '\n' +
+        'Team Collaboration & Mentorship\n' +
+        '\n' +
+        '*   Collaborate with and support junior architectural staff and emerging professionals.\n' +
+        '*   Foster a collaborative and inclusive studio environment focused on growth, accountability, and continuous improvement.\n' +
+        '*   Provide peer support related to technical documentation, project workflows, and production coordination.\n' +
+        '*   Participate in team coordination and project resource discussions as needed.\n' +
+        '*   Demonstrates kindness and actively supports colleagues.\n' +
+        '\n' +
+        '**QUALIFICATIONS**\n' +
+        '\n' +
+        'Required\n' +
+        '\n' +
+        "*   Bachelor or Master's Degree in Architecture from an accredited program.\n" +
+        '*   Minimum 7-10 years of architectural experience\n' +
+        '*   Strong experience producing and coordinating construction documents.\n' +
+        '*   Advanced proficiency in Revit within a professional architectural environment.\n' +
+        '*   Working knowledge of construction administration processes and procedures.\n' +
+        '*   Strong understanding of building codes, accessibility requirements, construction methods, and building systems.\n' +
+        '*   Excellent verbal, written, and organizational communication skills.\n' +
+        '*   Ability to manage multiple priorities and work collaboratively in a team environment.\n' +
+        '*   Experience coordinating multidisciplinary consultant teams.\n' +
+        '*   Ability to iterate and test novel ideas\n' +
+        '*   Familiarity with campus design, urban design, and landscape architecture\n' +
+        '*   Strong interest in stakeholder engagement and experience\n' +
+        '*   Strong interest in data and database management as a component of the design process\n' +
+        '*   Strong interest in environmental controls, sustainability and supply chain\n' +
+        '*   Spec writing experience\n' +
+        '*   Interest in strategic and contextual analysis in architectural design processes.\n' +
+        '\n' +
+        'Preferred\n' +
+        '\n' +
+        '*   California or Hawaii Architectural Registration or active progress toward licensure.\n' +
+        '*   Experience working on projects in California, Hawaii, and/or the Pacific Islands.\n' +
+        '*   Experience with public agency jurisdictions and permitting processes.\n' +
+        '*   DSA and/or HCAI project experience.\n' +
+        '*   LEED Accredited Professional and/or WELL Accreditation.\n' +
+        '*   Experience with sustainable and high-performance building strategies.\n' +
+        '*   Familiarity with healthcare, education, civic, and mixed-use project types.\n' +
+        '*   Additional software proficiency: Rhino, Sketchup, Rendering software such as Enscape, Bluebeam, Adobe software, hand sketching\n' +
+        '*   Familiarity with parametric tools such as Dynamo and Grasshopper.\n' +
+        '*   Curiosity about AI integration into project delivery\n' +
+        '\n' +
+        '**LOCATION**\n' +
+        '\n' +
+        "This position is based in MKThink's San Francisco office, however, consideration will also be given for candidates based in Hawaii.\n" +
+        '\n' +
+        '**HOW TO APPLY**\n' +
+        '\n' +
+        'Applications should include **a cover letter and a PDF with your resume and work samples demonstrating your fit for the role.**',
+      companyIndustry: null,
+      companyUrl: 'https://www.indeed.com/cmp/Mkthink',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: 'http://www.mkthink.com',
+      companyAddresses: 'San Francisco',
+      companyNumEmployees: '11 to 50',
+      companyRevenue: '$1M to $5M (USD)',
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4468333727',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4468333727',
+      jobUrlDirect: null,
+      title: 'Staff Software Architect',
+      company: 'Taskrabbit',
+      location: 'San Francisco Bay Area',
+      datePosted: '2026-09-17',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/taskrabbit',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4467185103',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4467185103',
+      jobUrlDirect: null,
+      title: 'Performance Architect, CPU Cluster',
+      company: 'Tenstorrent',
+      location: 'Santa Clara, CA',
+      datePosted: '2026-09-17',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://ca.linkedin.com/company/tenstorrent-inc.',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4302019875',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4302019875',
+      jobUrlDirect: null,
+      title: 'System Architect, Synchronization and Timing',
+      company: 'SiTime',
+      location: 'Santa Clara, CA',
+      datePosted: '2026-09-17',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/sitime',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4468321017',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4468321017',
+      jobUrlDirect: null,
+      title: 'Principal Software Architect Pleasanton, CA / Sunnyvale, CA',
+      company: 'Abbott',
+      location: 'Pleasanton, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/abbott-',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4466883664',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4466883664',
+      jobUrlDirect: null,
+      title: 'Senior GPU System Architect, Silicon',
+      company: 'Google',
+      location: 'Mountain View, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/google',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4467127189',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4467127189',
+      jobUrlDirect: null,
+      title: 'Principal Architect — Adobe Stock',
+      company: 'Adobe',
+      location: 'San Francisco, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/adobe',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4457643824',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4457643824',
+      jobUrlDirect: null,
+      title: 'Senior Architect, Agentic AI for Marketing',
+      company: 'NVIDIA',
+      location: 'Santa Clara, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/nvidia',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4459887062',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4459887062',
+      jobUrlDirect: null,
+      title: 'Project Architect - Interiors - Senior',
+      company: 'Gensler',
+      location: 'Oakland, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/gensler',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4466804411',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4466804411',
+      jobUrlDirect: null,
+      title: 'Senior GPU Architect - Performance and Yield Optimization',
+      company: 'NVIDIA',
+      location: 'Santa Clara, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/nvidia',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4465987616',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4465987616',
+      jobUrlDirect: null,
+      title: 'Architect',
+      company: 'Foster + Partners',
+      location: 'San Francisco, CA',
+      datePosted: '2026-09-16',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://uk.linkedin.com/company/foster-&-partners',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4465902966',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4465902966',
+      jobUrlDirect: null,
+      title: 'Principal Architect',
+      company: 'AlphaX RE Capital',
+      location: 'Cupertino, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/alphax-capital',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4421351194',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4421351194',
+      jobUrlDirect: null,
+      title: 'MES Solution Architect Manager (AVEVA)',
+      company: 'Deloitte',
+      location: 'San Jose, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/deloitte',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4465914932',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4465914932',
+      jobUrlDirect: null,
+      title: 'Senior Architect',
+      company: 'AlphaX RE Capital',
+      location: 'Cupertino, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/alphax-capital',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4381644226',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4381644226',
+      jobUrlDirect: null,
+      title: 'Sr. Principal AI Systems Architect',
+      company: 'Fivetran',
+      location: 'Oakland, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/fivetran',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4465532200',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4465532200',
+      jobUrlDirect: null,
+      title: 'Software Architect',
+      company: 'Air Apps',
+      location: 'San Francisco, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/airapps',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4466592089',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4466592089',
+      jobUrlDirect: null,
+      title: 'Senior Platform Architect - Enterprise AI Agent',
+      company: 'ByteDance',
+      location: 'San Jose, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://cn.linkedin.com/company/bytedance',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4458291693',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4458291693',
+      jobUrlDirect: null,
+      title: 'Solutions Architect, Enterprise (Presales)',
+      company: 'Stripe',
+      location: 'San Francisco, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/stripe',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4458267385',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4458267385',
+      jobUrlDirect: null,
+      title: 'Senior Cloud Architect – Platforms Engineering',
+      company: 'Xona',
+      location: 'Burlingame, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/xona-space-systems',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4407473356',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4407473356',
+      jobUrlDirect: null,
+      title: 'Principal Software Architect - AI & Security',
+      company: 'Mainspring Energy',
+      location: 'Menlo Park, CA',
+      datePosted: '2026-09-15',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/mainspringenergy',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    },
+    {
+      id: 'li-4465256624',
+      site: 'linkedin',
+      jobUrl: 'https://www.linkedin.com/jobs/view/4465256624',
+      jobUrlDirect: null,
+      title: 'Staff HPC Network Architect',
+      company: 'Lambda',
+      location: 'San Jose, CA',
+      datePosted: '2026-09-14',
+      jobTypes: [],
+      salarySource: null,
+      interval: null,
+      minAmount: null,
+      maxAmount: null,
+      currency: null,
+      isRemote: false,
+      jobLevel: null,
+      jobFunction: null,
+      listingType: null,
+      emails: [],
+      description: null,
+      companyIndustry: null,
+      companyUrl: 'https://www.linkedin.com/company/lambda-cloud',
+      companyLogo: null,
+      bannerPhotoUrl: null,
+      companyUrlDirect: null,
+      companyAddresses: null,
+      companyNumEmployees: null,
+      companyRevenue: null,
+      companyDescription: null,
+      skills: [],
+      experienceRange: null,
+      companyRating: null,
+      companyReviewsCount: null,
+      vacancyCount: null,
+      workFromHomeType: null
+    }
+  ],
+  meta: {
+    sites: [ [Object], [Object] ],
+    totalDurationMs: 7147,
+    jobsPerSecond: 4.2,
+    failureRate: 0,
+    duplicatesRemoved: 0
+  }
+}

@@ -6,7 +6,8 @@
     "dev": "tsx src/index.ts",
     "check": "tsc --noEmit",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "generate:search-plan": "tsx src/cli/generate-search-plan.ts -- "
   },
   "keywords": [],
   "author": "",

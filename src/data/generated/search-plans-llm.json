@@ -1,0 +1,109 @@
+[
+  {
+    "target": "fullstack",
+    "queries": [
+      "Full-stack engineer TypeScript",
+      "Senior developer React Node.js",
+      "Software engineer AWS",
+      "Full-stack developer PostgreSQL",
+      "Full-stack engineer Next.js",
+      "Senior full-stack engineer microservices",
+      "Software engineer Docker CI/CD",
+      "Full-stack engineer GraphQL"
+    ],
+    "locations": [
+      "remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
+  },
+  {
+    "target": "staff",
+    "queries": [
+      "staff engineer TypeScript Kubernetes",
+      "principal engineer Go distributed systems",
+      "tech lead gRPC event sourcing",
+      "staff engineer distributed systems Kafka",
+      "principal engineer Terraform Go",
+      "tech lead Kubernetes event sourcing",
+      "staff engineer gRPC distributed systems",
+      "principal engineer TypeScript Kafka",
+      "tech lead Go Kubernetes"
+    ],
+    "locations": [
+      "Austin, TX",
+      "Remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
+  },
+  {
+    "target": "frontend",
+    "queries": [
+      "frontend lead React TypeScript",
+      "lead frontend engineer performance optimization",
+      "frontend manager React testing",
+      "engineering manager front end",
+      "frontend lead Next.js Tailwind CSS",
+      "frontend lead Storybook a11y",
+      "frontend lead accessibility",
+      "lead front end engineer React"
+    ],
+    "locations": [
+      "remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
+  },
+  {
+    "target": "fullstack-oss",
+    "queries": [
+      "full-stack developer open source",
+      "open source full-stack developer",
+      "full-stack developer TypeScript",
+      "full-stack developer JavaScript",
+      "full-stack developer REST APIs",
+      "full-stack developer Git",
+      "open source developer Vue.js",
+      "open source contributor Python",
+      "full-stack engineer Docker",
+      "full-stack engineer Linux"
+    ],
+    "locations": [
+      "remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
+  },
+  {
+    "target": "engineer-ecommerce",
+    "queries": [
+      "senior software engineer e-commerce",
+      "senior backend engineer e-commerce",
+      "senior fullstack engineer e-commerce",
+      "senior platform engineer e-commerce",
+      "senior e-commerce engineer stripe",
+      "senior e-commerce engineer Shopify",
+      "senior e-commerce engineer microservices",
+      "senior e-commerce engineer payment systems",
+      "senior fullstack engineer node.js e-commerce"
+    ],
+    "locations": [
+      "Austin, TX",
+      "San Francisco, CA",
+      "Remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
+  }
+]

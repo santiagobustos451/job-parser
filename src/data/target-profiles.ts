@@ -81,4 +81,4 @@ const targets: TargetProfile[] = [
   },
 ];
 
-export default targets;
+export { targets };

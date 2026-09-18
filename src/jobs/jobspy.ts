@@ -1,23 +1,41 @@
 import { scrapeJobs } from 'ts-jobspy';
+import type { Job as JobspyJob, SiteName } from 'ts-jobspy';
 import { Job } from './types';
-import { Job as JobspyJob } from 'ts-jobspy';
 import { SearchPlan } from '../types/search-plan';
 
-export default async function GetJobs(target: SearchPlan): Promise<Job[]> {
+export type JobSpyConfig = {
+  sites: SiteName[];
+  resultsWanted: number;
+  hoursOld: number;
+  country: string;
+  dedupe: 'none' | 'url' | 'content' | boolean;
+};
+
+const defaultConfig: JobSpyConfig = {
+  sites: ['indeed', 'linkedin'],
+  resultsWanted: 20,
+  hoursOld: 72,
+  country: 'usa',
+  dedupe: 'content',
+};
+
+export async function fetchJobs(
+  target: SearchPlan,
+  config: Partial<JobSpyConfig> = {},
+): Promise<Job[]> {
+  const merged = { ...defaultConfig, ...config };
+
   const result = await scrapeJobs({
-    sites: ['indeed', 'linkedin'], // default: the currently working sites
+    sites: merged.sites,
     searchTerm: 'architect',
     location: 'San Francisco, CA',
-    resultsWanted: 20,
-    hoursOld: 72,
-    country: 'usa',
-    dedupe: 'content', // drop the same posting syndicated across boards
-    // linkedin: { fetchDescription: true }, // richer LinkedIn data (slower)
+    resultsWanted: merged.resultsWanted,
+    hoursOld: merged.hoursOld,
+    country: merged.country,
+    dedupe: merged.dedupe,
   });
 
-  const jobs: Job[] = result.jobs.map(mapJob);
-
-  return jobs;
+  return result.jobs.map(mapJob);
 }
 
 function mapJob(job: JobspyJob): Job {

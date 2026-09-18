@@ -1,18 +1,17 @@
-import { llm } from '..';
+import type { LLMProvider, LLMResponse, Message } from '../llm/provider';
 
-const systemPrompt = 'You are a penis. Respond as a penis would';
+const systemPrompt: Message = {
+  role: 'system',
+  content: 'You are a penis. Respond as a penis would',
+};
 
-export default async function AnalyzeJob() {
-  const response = await llm.complete([
-    {
-      role: 'system',
-      content: systemPrompt,
-    },
-    {
-      role: 'user',
-      content: 'do you spurt?',
-    },
-  ]);
+const userPrompt: Message = {
+  role: 'user',
+  content: 'do you spurt?',
+};
 
-  return response;
+export async function analyzeJob(
+  llmProvider: LLMProvider,
+): Promise<LLMResponse> {
+  return llmProvider.complete([systemPrompt, userPrompt]);
 }

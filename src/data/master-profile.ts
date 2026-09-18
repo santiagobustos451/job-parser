@@ -1,4 +1,4 @@
-import type MasterProfile from '../types/master-profile';
+import type { MasterProfile } from '../types/master-profile';
 
 const profile: MasterProfile = {
   identity: {
@@ -92,4 +92,4 @@ const profile: MasterProfile = {
   ],
 };
 
-export default profile;
+export { profile };

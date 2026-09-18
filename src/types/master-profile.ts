@@ -1,4 +1,4 @@
-type MasterProfile = {
+export type MasterProfile = {
   identity: Identity;
   experience: Experience[];
   education: Education[];

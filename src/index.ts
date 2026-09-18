@@ -1,12 +1,12 @@
 import 'dotenv/config';
-import AnalyzeJob from './tasks/analyze-job';
-import GetJobs from './jobs/jobspy';
-import OpenAICompatibleProvider from './llm/openai';
 
-export const llm = new OpenAICompatibleProvider();
+import { OpenAICompatibleProvider } from './llm/openai';
+import { analyzeJob } from './tasks/analyze-job';
 
 async function main() {
-  const response = await AnalyzeJob();
+  const llmProvider = new OpenAICompatibleProvider();
+  const response = await analyzeJob(llmProvider);
+  console.log(response);
 }
 
 main().catch(console.error);

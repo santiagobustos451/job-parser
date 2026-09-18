@@ -7,7 +7,7 @@ type OpenAIProviderConfig = {
   model?: string;
 };
 
-export default class OpenAICompatibleProvider implements LLMProvider {
+export class OpenAICompatibleProvider implements LLMProvider {
   private client: OpenAI;
   private model: string;
 

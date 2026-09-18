@@ -2,108 +2,81 @@
   {
     "target": "fullstack",
     "queries": [
-      "Full-stack engineer TypeScript",
-      "Senior developer React Node.js",
-      "Software engineer AWS",
-      "Full-stack developer PostgreSQL",
-      "Full-stack engineer Next.js",
-      "Senior full-stack engineer microservices",
-      "Software engineer Docker CI/CD",
-      "Full-stack engineer GraphQL"
+      "full-stack engineer TypeScript React",
+      "senior developer Node.js PostgreSQL AWS",
+      "software engineer TypeScript AWS Docker",
+      "full-stack engineer GraphQL Next.js Node.js",
+      "senior developer React Node.js microservices",
+      "software engineer TypeScript GraphQL PostgreSQL",
+      "full-stack engineer AWS Docker CI/CD",
+      "senior developer TypeScript React Next.js",
+      "software engineer Node.js PostgreSQL microservices"
     ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "staff",
     "queries": [
-      "staff engineer TypeScript Kubernetes",
-      "principal engineer Go distributed systems",
-      "tech lead gRPC event sourcing",
-      "staff engineer distributed systems Kafka",
-      "principal engineer Terraform Go",
-      "tech lead Kubernetes event sourcing",
-      "staff engineer gRPC distributed systems",
-      "principal engineer TypeScript Kafka",
-      "tech lead Go Kubernetes"
+      "staff engineer Kubernetes",
+      "principal engineer Go",
+      "tech lead distributed systems",
+      "staff engineer TypeScript",
+      "principal engineer event sourcing",
+      "tech lead Kafka",
+      "staff engineer gRPC",
+      "principal engineer Terraform",
+      "tech lead Go Kubernetes",
+      "staff engineer distributed systems"
     ],
-    "locations": [
-      "Austin, TX",
-      "Remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "locations": ["Austin, TX", "Remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "frontend",
     "queries": [
       "frontend lead React TypeScript",
-      "lead frontend engineer performance optimization",
-      "frontend manager React testing",
-      "engineering manager front end",
-      "frontend lead Next.js Tailwind CSS",
-      "frontend lead Storybook a11y",
-      "frontend lead accessibility",
-      "lead front end engineer React"
+      "frontend lead testing performance",
+      "engineering manager frontend React",
+      "lead frontend Next.js Tailwind",
+      "frontend lead accessibility a11y",
+      "frontend lead Storybook React",
+      "frontend engineering manager TypeScript",
+      "frontend lead performance optimization",
+      "frontend lead React accessibility",
+      "frontend lead TypeScript testing"
     ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "fullstack-oss",
     "queries": [
-      "full-stack developer open source",
-      "open source full-stack developer",
-      "full-stack developer TypeScript",
-      "full-stack developer JavaScript",
-      "full-stack developer REST APIs",
-      "full-stack developer Git",
-      "open source developer Vue.js",
-      "open source contributor Python",
-      "full-stack engineer Docker",
-      "full-stack engineer Linux"
+      "Full-Stack Engineer TypeScript",
+      "Full-Stack Developer REST APIs",
+      "Full-Stack Developer Vue.js",
+      "Full-Stack Developer Docker",
+      "Open Source Full-Stack Engineer",
+      "Open Source Full-Stack Developer",
+      "Software Engineer TypeScript JavaScript",
+      "Full-Stack Developer Documentation"
     ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "engineer-ecommerce",
     "queries": [
-      "senior software engineer e-commerce",
-      "senior backend engineer e-commerce",
-      "senior fullstack engineer e-commerce",
-      "senior platform engineer e-commerce",
-      "senior e-commerce engineer stripe",
-      "senior e-commerce engineer Shopify",
-      "senior e-commerce engineer microservices",
-      "senior e-commerce engineer payment systems",
-      "senior fullstack engineer node.js e-commerce"
+      "senior software engineer e-commerce platform",
+      "senior developer e-commerce payment systems",
+      "platform engineer Node.js React microservices",
+      "e-commerce engineer React Node.js Stripe",
+      "senior full stack engineer e-commerce SQL",
+      "e-commerce platform engineer React Redis",
+      "senior backend engineer payment scalability",
+      "lead engineer e-commerce Shopify microservices"
     ],
-    "locations": [
-      "Austin, TX",
-      "San Francisco, CA",
-      "Remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "locations": ["Austin, TX", "San Francisco, CA", "Remote"],
+    "sources": ["linkedin", "indeed"]
   }
 ]

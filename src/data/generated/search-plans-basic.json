@@ -1,80 +1,32 @@
 [
   {
     "target": "fullstack",
-    "queries": [
-      "full-stack engineer",
-      "senior developer",
-      "software engineer"
-    ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "queries": ["full-stack engineer", "senior developer", "software engineer"],
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "staff",
-    "queries": [
-      "staff engineer",
-      "principal engineer",
-      "tech lead"
-    ],
-    "locations": [
-      "Austin, TX",
-      "Remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "queries": ["staff engineer", "principal engineer", "tech lead"],
+    "locations": ["Austin, TX", "Remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "frontend",
-    "queries": [
-      "lead frontend",
-      "frontend lead",
-      "engineering manager"
-    ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "queries": ["lead frontend", "frontend lead", "engineering manager"],
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "fullstack-oss",
-    "queries": [
-      "full-stack developer",
-      "open source",
-      "contributor"
-    ],
-    "locations": [
-      "remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "queries": ["full-stack developer", "open source", "contributor"],
+    "locations": ["remote"],
+    "sources": ["linkedin", "indeed"]
   },
   {
     "target": "engineer-ecommerce",
-    "queries": [
-      "senior software engineer",
-      "e-commerce",
-      "platform"
-    ],
-    "locations": [
-      "Austin, TX",
-      "San Francisco, CA",
-      "Remote"
-    ],
-    "sources": [
-      "linkedin",
-      "indeed"
-    ]
+    "queries": ["senior software engineer", "e-commerce", "platform"],
+    "locations": ["Austin, TX", "San Francisco, CA", "Remote"],
+    "sources": ["linkedin", "indeed"]
   }
 ]

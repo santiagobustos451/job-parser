@@ -4,3 +4,5 @@ export type SearchPlan = {
   locations: string[];
   sources: string[];
 };
+
+export type SearchPlanMode = 'basic' | 'llm';

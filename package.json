@@ -7,18 +7,21 @@
     "check": "tsc --noEmit",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "generate:search-plan": "tsx src/cli/generate-search-plan.ts -- "
+    "generate:search-plan": "tsx src/cli/generate-search-plan.ts -- ",
+    "db:migrate": "tsx src/db/migrate.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "better-sqlite3": "^13.0.3",
     "dotenv": "^17.4.2",
     "openai": "^7.17.0",
     "ts-jobspy": "^3.0.1"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^22.20.3",
     "prettier": "^3.9.7",
     "tsx": "^4.23.13",

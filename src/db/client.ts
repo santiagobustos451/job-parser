@@ -1,4 +1,6 @@
 import Database from 'better-sqlite3';
+import { Job } from '../jobs/types';
+import { JobToJobInsert } from './helpers';
 
 const DB_PATH = 'data/jobs.db';
 
@@ -16,10 +18,6 @@ export type DbJob = {
   datePosted: string | null;
   description: string;
   isRemote: boolean | null;
-  salaryMin: number | null;
-  salaryMax: number | null;
-  salaryCurrency: string | null;
-  salaryInterval: string | null;
   createdAt: string;
 };
 
@@ -34,10 +32,6 @@ export type JobInsert = {
   datePosted: string | null;
   description: string;
   isRemote: boolean | null;
-  salaryMin: number | null;
-  salaryMax: number | null;
-  salaryCurrency: string | null;
-  salaryInterval: string | null;
 };
 
 export type JobInsertResult = {
@@ -61,15 +55,16 @@ function getDb(): Database.Database {
  * Upsert a job by (source, sourceId) unique key.
  * Returns the job ID and whether it was newly inserted.
  */
-export function insertJob(job: JobInsert): JobInsertResult {
+export function insertJob(job: Job): JobInsertResult {
   const db = getDb();
+  const jobInsert = JobToJobInsert(job);
 
   // First check if the job already exists
   const existing = db
     .prepare(
       'SELECT id FROM jobs WHERE source = ? AND source_id = ? LIMIT 1',
     )
-    .get(job.source, job.sourceId) as { id: number } | undefined;
+    .get(jobInsert.source, jobInsert.sourceId) as { id: number } | undefined;
 
   if (existing) {
     return { jobId: existing.id, isNew: false };
@@ -80,11 +75,11 @@ export function insertJob(job: JobInsert): JobInsertResult {
     INSERT INTO jobs (
       source, source_id, title, company, location,
       url, direct_url, date_posted, description,
-      is_remote, salary_min, salary_max, salary_currency, salary_interval
+      is_remote
     ) VALUES (
       @source, @sourceId, @title, @company, @location,
       @url, @directUrl, @datePosted, @description,
-      @isRemote, @salaryMin, @salaryMax, @salaryCurrency, @salaryInterval
+      @isRemote
     )
     RETURNING id
   `);
@@ -100,10 +95,6 @@ export function insertJob(job: JobInsert): JobInsertResult {
     datePosted: job.datePosted,
     description: job.description,
     isRemote: job.isRemote ? 1 : 0,
-    salaryMin: job.salaryMin,
-    salaryMax: job.salaryMax,
-    salaryCurrency: job.salaryCurrency,
-    salaryInterval: job.salaryInterval,
   }) as { id: number };
 
   return { jobId: result.id, isNew: true };

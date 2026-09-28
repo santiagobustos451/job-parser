@@ -15,7 +15,7 @@ const defaultConfig: JobSpyConfig = {
   sites: ['indeed', 'linkedin'],
   resultsWanted: 20,
   hoursOld: 72,
-  country: 'usa',
+  country: 'Argentina',
   dedupe: 'content',
 };
 
@@ -24,18 +24,29 @@ export async function fetchJobs(
   config: Partial<JobSpyConfig> = {},
 ): Promise<Job[]> {
   const merged = { ...defaultConfig, ...config };
+  const foundJobs: Job[] = [];
 
-  const result = await scrapeJobs({
-    sites: merged.sites,
-    searchTerm: 'architect',
-    location: 'San Francisco, CA',
-    resultsWanted: merged.resultsWanted,
-    hoursOld: merged.hoursOld,
-    country: merged.country,
-    dedupe: merged.dedupe,
-  });
-
-  return result.jobs.map(mapJob);
+  for (const query of target.queries) {
+    if (query.trim().length < 3) {
+      throw new Error(`Query "${query}" is too short. Must be at least 3 characters.`);
+    }
+    for (const location of target.locations) {
+      if (location.trim().length < 3) {
+        throw new Error(`Location "${location}" is too short. Must be at least 3 characters.`);
+      }
+      const result = await scrapeJobs({
+        sites: target.sources as SiteName[],
+        searchTerm: query,
+        location: location,
+        resultsWanted: merged.resultsWanted,
+        hoursOld: merged.hoursOld,
+        country: merged.country,
+        dedupe: merged.dedupe,
+      });
+      foundJobs.push(...result.jobs.map(mapJob));
+    }
+  }
+  return foundJobs;
 }
 
 function mapJob(job: JobspyJob): Job {

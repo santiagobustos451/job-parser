@@ -6,28 +6,19 @@ import {
   generateSearchPlan,
   SearchPlanMode,
 } from '../tasks/generate-search-plan';
-import { targets } from '../data/target-profiles';
+import { targetProfiles } from '../data/target-profiles';
 import type { TargetProfile } from '../types/target-profile';
 import type { SearchPlan } from '../types/search-plan';
 import { dirname, join } from 'path';
 import { mkdir, writeFile } from 'fs/promises';
-
-function getArg(name: string): string | undefined {
-  const index = process.argv.indexOf(name);
-
-  if (index === -1) {
-    return undefined;
-  }
-
-  return process.argv[index + 1];
-}
+import { getArg } from './lib/helpers';
 
 function isSearchPlanMode(value: string | undefined): value is SearchPlanMode {
   return value === 'basic' || value === 'llm';
 }
 
 function selectTargets(targetName: string | undefined): TargetProfile[] {
-  const allTargets = targets;
+  const allTargets = targetProfiles;
 
   if (!targetName) {
     return allTargets;

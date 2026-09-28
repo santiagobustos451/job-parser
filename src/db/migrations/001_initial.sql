@@ -14,10 +14,6 @@ CREATE TABLE IF NOT EXISTS jobs (
     date_posted     TEXT,
     description     TEXT NOT NULL,
     is_remote       INTEGER,
-    salary_min      INTEGER,
-    salary_max      INTEGER,
-    salary_currency TEXT,
-    salary_interval TEXT,
 
     -- Persistence metadata
     created_at      TEXT NOT NULL DEFAULT (datetime('now'))

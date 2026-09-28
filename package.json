@@ -8,7 +8,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "generate:search-plan": "tsx src/cli/generate-search-plan.ts -- ",
-    "db:migrate": "tsx src/db/migrate.ts"
+    "db:migrate": "tsx src/db/migrate.ts",
+    "search": "tsx src/cli/search.ts -- "
   },
   "keywords": [],
   "author": "",
@@ -23,8 +24,12 @@
   "devDependencies": {
     "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^22.20.3",
-    "prettier": "^3.9.7",
+    "prettier": "3.9.9",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "better-sqlite3@13.0.3": true,
+    "esbuild@0.28.2": true
   }
 }

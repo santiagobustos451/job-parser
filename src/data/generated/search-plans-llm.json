@@ -1,82 +1,111 @@
 [
   {
-    "target": "fullstack",
+    "target": "web-developer",
     "queries": [
-      "full-stack engineer TypeScript React",
-      "senior developer Node.js PostgreSQL AWS",
-      "software engineer TypeScript AWS Docker",
-      "full-stack engineer GraphQL Next.js Node.js",
-      "senior developer React Node.js microservices",
-      "software engineer TypeScript GraphQL PostgreSQL",
-      "full-stack engineer AWS Docker CI/CD",
-      "senior developer TypeScript React Next.js",
-      "software engineer Node.js PostgreSQL microservices"
+      "Web Developer React",
+      "Frontend Developer TypeScript",
+      "Backend PHP Symfony",
+      "JavaScript Developer REST API",
+      "React Developer SQL",
+      "TypeScript Backend Developer",
+      "PHP Developer Docker",
+      "Web Developer Docker"
     ],
-    "locations": ["remote"],
-    "sources": ["linkedin", "indeed"]
+    "locations": [
+      "Argentina",
+      "Remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
   },
   {
-    "target": "staff",
+    "target": "full-stack-developer",
     "queries": [
-      "staff engineer Kubernetes",
-      "principal engineer Go",
-      "tech lead distributed systems",
-      "staff engineer TypeScript",
-      "principal engineer event sourcing",
-      "tech lead Kafka",
-      "staff engineer gRPC",
-      "principal engineer Terraform",
-      "tech lead Go Kubernetes",
-      "staff engineer distributed systems"
+      "Full Stack Developer React",
+      "Full Stack Engineer TypeScript",
+      "Full Stack Web Developer Node.js",
+      "Fullstack Developer PHP Symfony",
+      "Web Developer Docker",
+      "Full Stack Developer REST API",
+      "Full Stack Engineer SQL",
+      "Full Stack Web Developer JavaScript",
+      "Full Stack Developer Symfony PHP",
+      "Fullstack Developer TypeScript Node.js"
     ],
-    "locations": ["Austin, TX", "Remote"],
-    "sources": ["linkedin", "indeed"]
+    "locations": [
+      "Argentina",
+      "Remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
   },
   {
-    "target": "frontend",
+    "target": "ai-agent-developer",
     "queries": [
-      "frontend lead React TypeScript",
-      "frontend lead testing performance",
-      "engineering manager frontend React",
-      "lead frontend Next.js Tailwind",
-      "frontend lead accessibility a11y",
-      "frontend lead Storybook React",
-      "frontend engineering manager TypeScript",
-      "frontend lead performance optimization",
-      "frontend lead React accessibility",
-      "frontend lead TypeScript testing"
+      "AI Agent Developer LLM",
+      "AI Automation Engineer LangChain",
+      "AI Software Engineer OpenAI Python",
+      "LLM Developer Automation APIs",
+      "Agentic AI Developer n8n",
+      "AI Developer RAG OpenAI",
+      "AI Engineer Python LLM",
+      "AI Automation Developer LangChain",
+      "AI Agent Developer APIs"
     ],
-    "locations": ["remote"],
-    "sources": ["linkedin", "indeed"]
+    "locations": [
+      "Argentina",
+      "Remote"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
   },
   {
-    "target": "fullstack-oss",
+    "target": "tecnico-electronico",
     "queries": [
-      "Full-Stack Engineer TypeScript",
-      "Full-Stack Developer REST APIs",
-      "Full-Stack Developer Vue.js",
-      "Full-Stack Developer Docker",
-      "Open Source Full-Stack Engineer",
-      "Open Source Full-Stack Developer",
-      "Software Engineer TypeScript JavaScript",
-      "Full-Stack Developer Documentation"
+      "Técnico Electrónico Reparación",
+      "Técnico de Electrónica Mantenimiento",
+      "Técnico Electrónico Arduino",
+      "Electronic Technician Instrumentation",
+      "Técnico en Electrónica Sistemas electrónicos",
+      "Técnico Electrónico Mantenimiento",
+      "Técnico en Electrónica Reparación",
+      "Técnico Electrónico Instrumentación",
+      "Técnico de Electrónica Reparación"
     ],
-    "locations": ["remote"],
-    "sources": ["linkedin", "indeed"]
+    "locations": [
+      "Córdoba, Argentina"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
   },
   {
-    "target": "engineer-ecommerce",
+    "target": "tecnico-instalacion",
     "queries": [
-      "senior software engineer e-commerce platform",
-      "senior developer e-commerce payment systems",
-      "platform engineer Node.js React microservices",
-      "e-commerce engineer React Node.js Stripe",
-      "senior full stack engineer e-commerce SQL",
-      "e-commerce platform engineer React Redis",
-      "senior backend engineer payment scalability",
-      "lead engineer e-commerce Shopify microservices"
+      "Técnico Instalador",
+      "Instalador Técnico",
+      "Técnico de Instalación",
+      "Técnico de Instalaciones",
+      "Técnico de Campo",
+      "Field Technician",
+      "Técnico de Mantenimiento",
+      "Técnico Cableado",
+      "Técnico de Equipamiento",
+      "Servicio Técnico"
     ],
-    "locations": ["Austin, TX", "San Francisco, CA", "Remote"],
-    "sources": ["linkedin", "indeed"]
+    "locations": [
+      "Córdoba, Argentina"
+    ],
+    "sources": [
+      "linkedin",
+      "indeed"
+    ]
   }
 ]
